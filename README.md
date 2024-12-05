@@ -1,3 +1,3 @@
 # fastighetsdb
 
-## CODE first databas
+## DB first database
